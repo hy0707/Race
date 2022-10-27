@@ -1,0 +1,11 @@
+C:\Users\hy990\source\repos\Racing\Racing\bin\Debug\Racing.exe.config
+C:\Users\hy990\source\repos\Racing\Racing\bin\Debug\Racing.exe
+C:\Users\hy990\source\repos\Racing\Racing\bin\Debug\Racing.pdb
+C:\Users\hy990\source\repos\Racing\Racing\obj\Debug\Racing.csproj.AssemblyReference.cache
+C:\Users\hy990\source\repos\Racing\Racing\obj\Debug\Racing.csproj.SuggestedBindingRedirects.cache
+C:\Users\hy990\source\repos\Racing\Racing\obj\Debug\Racing.Form1.resources
+C:\Users\hy990\source\repos\Racing\Racing\obj\Debug\Racing.Properties.Resources.resources
+C:\Users\hy990\source\repos\Racing\Racing\obj\Debug\Racing.csproj.GenerateResource.cache
+C:\Users\hy990\source\repos\Racing\Racing\obj\Debug\Racing.csproj.CoreCompileInputs.cache
+C:\Users\hy990\source\repos\Racing\Racing\obj\Debug\Racing.exe
+C:\Users\hy990\source\repos\Racing\Racing\obj\Debug\Racing.pdb
